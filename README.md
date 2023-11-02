@@ -1,2 +1,2 @@
 # Netflix-Clone
-Netfkix clone using html, css and js
+Netflix clone using html, css and js
